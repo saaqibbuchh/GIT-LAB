@@ -1,8 +1,14 @@
 
 hi 
 
-this is seoncdfile 
+this is seconddfile 
 where i am writing the code to push it togit lab to check few commands
+
+thanks
+
+hi 
+i am usa user modifing this file 
+o do new works 
 
 thanks
 
